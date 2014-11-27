@@ -1,5 +1,5 @@
 /**
- *  ©2012 Andrew Wei (http://andrewwei.mu)
+ *  (c) VARIANTE <http://variante.io>
  *
  *  This software is released under the MIT License:
  *  http://www.opensource.org/licenses/mit-license.php
@@ -31,7 +31,7 @@ package io.variante.controls
          * Style struct.
          */
         private var _style:Object;
-        
+
         /**
          * Generates a new VSSpreadsheetCell instance using the specified data providers and default cell class.
          *
@@ -44,17 +44,17 @@ package io.variante.controls
         {
             var cellClass:Class = ($dataProviders['class']) ? $dataProviders['class'] as Class : $defaultCellClass;
             var cell:VSSpreadsheetCell = new cellClass();
-            
+
             cell.dataProviders = $dataProviders;
-            
+
             return cell;
         }
-        
+
         /**
          * Clones a VSSpreadsheetCell instance.
          *
          * @param $cell
-         * 
+         *
          * @return A new VSSpreadsheetCell instance that is a clone of the specified cell.
          */
         public static function cloneCell($cell:VSSpreadsheetCell):VSSpreadsheetCell

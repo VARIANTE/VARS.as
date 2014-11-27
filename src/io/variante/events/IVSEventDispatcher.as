@@ -1,5 +1,5 @@
 /**
- *  ©2012 Andrew Wei (http://andrewwei.mu)
+ *  (c) VARIANTE <http://variante.io>
  *
  *  This software is released under the MIT License:
  *  http://www.opensource.org/licenses/mit-license.php
@@ -18,7 +18,7 @@ package io.variante.events
          *
          * @param $type
          * @param $listener
-         * 
+         *
          * @return Boolean value indicating whether listener is registered for the VSEventDispatcher instance.
          */
         function hasEventHandler($type:String, $listener:Function):Boolean;
