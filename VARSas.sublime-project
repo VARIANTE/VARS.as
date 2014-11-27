@@ -1,0 +1,29 @@
+{
+    "build_systems":
+    [
+        {
+            "name": "Compile",
+            "cmd":
+            [
+                "compc",
+                "-include-sources",
+                "${project_path}/src",
+                "-library-path+=${project_path}/lib",
+                "-output",
+                "${project_path}/bin/vars.swc",
+                "-debug=false",
+                "-target-player=11.5",
+                "-swf-version=18"
+            ],
+            "path": "/Volumes/Developer/SDKs/Flex/flex_sdk_4/bin/",
+            "file_regex": "^(.+?)\\(([0-9]+)\\): col: (([0-9]+))(.*)$"
+        }
+    ],
+    "folders":
+    [
+        {
+            "follow_symlinks": true,
+            "path": "."
+        }
+    ]
+}

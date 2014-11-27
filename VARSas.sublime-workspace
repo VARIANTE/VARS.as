@@ -1,0 +1,807 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aspectR",
+				"assetAspectRatio"
+			],
+			[
+				"get",
+				"getCompatibleBackgroundIndexForWork"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"storeBadges",
+				"storeBadgesSubElement"
+			],
+			[
+				"ease",
+				"ease-in"
+			],
+			[
+				"genera",
+				"generateNav"
+			],
+			[
+				"backgro",
+				"backgroundElement"
+			],
+			[
+				"append",
+				"appendTo  (function)"
+			],
+			[
+				"profile",
+				"profileElement"
+			],
+			[
+				"ape",
+				"appendTo  (function)"
+			],
+			[
+				"profil",
+				"profileElement"
+			],
+			[
+				"onLoad",
+				"onLoadPresentationSuccess"
+			],
+			[
+				"onLoadPRes",
+				"onLoadPresentationError"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"revea",
+				"revealFooter"
+			],
+			[
+				"expand",
+				"expandFooter"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Build (debug)",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"removepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"gru",
+				"Grunt"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"rmeovepac",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 404.0,
+		"history":
+		[
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"log_commands(true)",
+			"log_commands: true",
+			"log_commands true",
+			"log_commands()",
+			"log_commands(true)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Developer HD/VARIANTE/Frameworks/VARSas"
+	],
+	"file_history":
+	[
+		"/Volumes/Developer HD/VARIANTE/Frameworks/VARSas/src/io/variante/utils/VSAssetLoader.as",
+		"/Volumes/Developer HD/VARIANTE/Frameworks/VARSas/src/io/variante/display/VSDisplayObject.as",
+		"/Volumes/Developer HD/VARIANTE/Frameworks/VARSas/src/io/variante/helpers/VSDirector.as",
+		"/Volumes/Developer HD/VARIANTE/Frameworks/VARSas/src/io/variante/events/VSEventDispatcher.as",
+		"/Volumes/Developer HD/VARIANTE/Frameworks/VARSas/src/io/variante/controls/VSButton.as",
+		"/Volumes/Developer HD/VARIANTE/Frameworks/VARSas/src/io/variante/controls/VSScrollView.as",
+		"/Volumes/Developer HD/VARIANTE/Frameworks/VARSas/src/io/variante/media/VSVideo.as",
+		"/Volumes/Developer HD/VARIANTE/Frameworks/VARSas/VARS.as3proj",
+		"/Volumes/Developer HD/VARIANTE/Frameworks/VARSas/VARSas.sublime-project",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-jshint/node_modules/jshint/src/vars.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/htmlparser2/test/Events/09-attributes.json",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-jshint/node_modules/jshint/node_modules/htmlparser2/test/Events/16-double_attribs.json",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/js/external/vars.min.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/build/js/external/vars.min.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/css/external/vars.css",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/js/controllers/prologuecontroller.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-qunit/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/node_modules/npmconf/node_modules/config-chain/node_modules/proto-list/proto-list.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt/lib/grunt/event.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt/node_modules/eventemitter2/package.json",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-qunit/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/pizza.coffee",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/css/core/normalize.css",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/scripts/build.py",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/css/modules/prologue.css",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt/LICENSE-MIT",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/js/controllers/showcasecontroller.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/data/showcase.data",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-nodeunit/node_modules/nodeunit/node_modules/tap/test/non-tap-output.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/build/data/nav.data",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/css/core/typography.css",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/css/modules/footer.css",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/index.html",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/css/modules/showcase.css",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/build/data/showcase.data",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-nodeunit/node_modules/nodeunit/node_modules/tap/node_modules/runforcover/node_modules/bunker/example/prof.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-qunit/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/lib/phantom/examples/printheaderfooter.coffee",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/js/modules/main.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/css/modules/main.css",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/build/css/bootstrapper.min.css",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/build/js/bootstrapper.min.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/build/index.html",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-qunit/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/node_modules/npmconf/lib/nerf-dart.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt/node_modules/minimatch/test/defaults.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/gruntfile.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/js/external/vars.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/build/assets/mail-icon.svg",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/Volumes/Dropbox HD/Dropbox/Developer/BAM Communications/Cambie Star/cambiestar.com/src/js/main.js",
+		"/Volumes/Dropbox HD/Dropbox/Developer/BAM Communications/Cambie Star/cambiestar.com/bin/js/main.min.js",
+		"/Volumes/Dropbox HD/Dropbox/Developer/BAM Communications/Cambie Star/cambiestar.com/src/css/main.css",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt/CONTRIBUTING.md",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-nodeunit/node_modules/nodeunit/node_modules/tap/node_modules/difflet/example/cmp_object.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/js/enums/scheme.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt/node_modules/glob/test/pause-resume.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/package.json",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/build/js/modules/main.min.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/build/js/main.min.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-uglify/node_modules/.bin/uglifyjs",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-qunit/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/node_modules/npmconf/node_modules/uid-number/uid-number.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-nodeunit/node_modules/nodeunit/node_modules/tap/test/simple-harness-test.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/build/sftp-config.json",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/build/data/presentation.data",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/VARIANTE.sublime-project",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt/internal-tasks/subgrunt.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/node_modules/grunt-contrib-concat/node_modules/source-map/build/suffix-utils.jsm",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/b.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/Gruntfile.js",
+		"/Volumes/Developer HD/VARIANTE/Web/variante.io/variante.io/src/presentation.html",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/js/vars.js",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/css/presentation.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/css/skeleton.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/data/nav.json",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/index.html",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/data/presentation.json",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/js/index.js",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/js/ga.js",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/work.html",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/js/jquery-2.1.1.min.js",
+		"/Users/andrewscwei/Downloads/jquery-2.1.1.js",
+		"/Users/andrewscwei/Downloads/angular.js",
+		"/Users/andrewscwei/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andrewscwei/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/sftp-config.json",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/scripts/css/presentation.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/scripts/css/skeleton.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/scripts/js/index.js",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/bin/scripts/css/styles.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/scripts/js/vars.js",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/scripts/css/skeleton.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/data/presentation.json",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/index.html",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/scripts/js/index.js",
+		"/Users/andrewscwei/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/andrewscwei/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/andrewscwei/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/andrewscwei/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/scripts/css/styles.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/scripts/css/texts.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/sftp-config.json",
+		"/Users/andrewscwei/Library/Application Support/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/VARIANTE/WWW/scripts/js/main.js",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/mu/bin/index.html",
+		"/Volumes/Dropbox HD/Dropbox/Briefcase/Keychain/Web Identity.txt",
+		"/Users/andrewscwei/Library/Caches/Cleanup At Startup/Transmit/67E8F420-C043-437D-854C-9801A46CF8B2/index.php",
+		"/Volumes/Dropbox HD/Dropbox/Clients/Vestige/WWW/bin/index.html",
+		"/Volumes/Dropbox HD/Dropbox/Clients/Vestige/WWW/bin/scripts/css/skeleton.css",
+		"/Volumes/Dropbox HD/Dropbox/Clients/Vestige/WWW/bin/scripts/css/texts.css",
+		"/Volumes/Dropbox HD/Dropbox/Clients/Vestige/WWW/bin/scripts/js/main.js",
+		"/Volumes/Dropbox HD/Dropbox/Clients/Vestige/WWW/bin/sftp-config.json",
+		"/Volumes/Dropbox HD/Dropbox/Clients/Vestige/WWW/bin/assets/vestige-logo.png",
+		"/Users/andrewscwei/Library/Application Support/Sublime Text 3/Packages/SFTP/Default (OSX).sublime-keymap",
+		"/Volumes/Dropbox HD/Dropbox/Clients/Vestige/WWW/bin/scripts/css/palette.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/Calculator/Concept/TestPlan.txt",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/Calculator/Concept/Submission Form.txt",
+		"/Users/andrewscwei/Desktop/sadf.m",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/Calculator/Marketing/iOS/3 Magic Shots/Name.txt",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/Calculator/WWW/scripts/css/graphing.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/Calculator/WWW/scripts/css/programmer.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/Calculator/WWW/scripts/css/scientific.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/Calculator/WWW/index.html",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/Calculator/WWW/scripts/css/skeleton.css",
+		"/Volumes/Dropbox HD/Dropbox/Briefcase/Keychain/Web Identity.rtf",
+		"/Users/andrewscwei/Downloads/asdfasdfsadf",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/Calculator/WWW/scripts/css/header.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/Calculator/WWW/scripts/css/texts.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/Calculator/WWW/scripts/css/palette.css",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/Calculator/Calculator/enums/tutorial/TutorialEnums.h",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/Calculator/WWW/sftp-config.json",
+		"/Volumes/Dropbox HD/Dropbox/Developer/Works/mu/bin/scripts/js/main.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"self",
+			"console",
+			"mDownArrow",
+			"mLogo",
+			"$",
+			"velocity",
+			"getCompatibleBackgroundIndexForWork",
+			"layoutWork",
+			"console",
+			"ShowcaseController",
+			"backgroundIndex",
+			"button",
+			"addClass",
+			"works",
+			"sizeOf",
+			"SCHEMES",
+			"PrologueController",
+			"initShowcase",
+			"ShowcaseController",
+			"UglifyCSS",
+			"UglifyJS",
+			"uglifycss",
+			"uglifyjs",
+			"UglifyCSS",
+			"']",
+			"['",
+			"85",
+			"vs_log",
+			"extend",
+			"angular",
+			"publishExternalAPI",
+			"forEach",
+			"noop",
+			"$inject",
+			"identity",
+			"angular",
+			"window.angular",
+			"camelCase",
+			"isArraylike",
+			"jquery.fn",
+			"fn =",
+			".fn",
+			"fn",
+			"jQuery",
+			"document",
+			"window",
+			"vs_log",
+			"initJSONMimeType",
+			"spaces",
+			"jquery",
+			"$",
+			".js",
+			"ELEMENT_BODY",
+			"firefox",
+			"super+enter",
+			"super+",
+			"pmath",
+			"vh",
+			") forControlEvents:UIControlEventTouchUpInside",
+			"[button addTarget:self action:@selector(",
+			"else ",
+			"if (i ==",
+			"DEC",
+			"\\$",
+			"NOV",
+			"OCT",
+			"\\$",
+			"SEP",
+			"AUG",
+			"\\$",
+			"AUG",
+			"JUL",
+			"\\$",
+			"JUN",
+			"\\$",
+			"MAY",
+			"\\$",
+			"APR",
+			"\\$",
+			"MAR",
+			"\\$",
+			"FEB",
+			"\\$",
+			"FEB",
+			"JAN",
+			"\\$",
+			"JAN",
+			"\\$",
+			"$",
+			"Digg",
+			"Starbucks",
+			"footer",
+			"FunctionType",
+			",",
+			"@",
+			":",
+			"head",
+			"parseFloat",
+			"[ProgrammerStyles padding]",
+			"hideFooter",
+			"hidden",
+			"collapsed",
+			"revealFooter",
+			"hidden",
+			"}\n",
+			"hidden",
+			"revealFooter",
+			"collapseFooter",
+			"expandFooter",
+			"medium",
+			"mobile",
+			"small",
+			"super+shift+f12"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"this",
+			"SCHEME",
+			"PrologueController",
+			"cssminifier",
+			"jsminifier",
+			"",
+			".",
+			"vars.log",
+			"logo",
+			"math",
+			"sender",
+			"[self ",
+			"",
+			"case",
+			"\\nDEC",
+			"\\n\\$",
+			"\\nNOV",
+			"\\nOCT",
+			"\\n\\$",
+			"\\nSEP",
+			"\\nAUG",
+			"\\n\\$",
+			"\\nAUG",
+			"\\nJUL",
+			"\\n\\$",
+			"\\nJUN",
+			"\\n\\$",
+			"\\nMAY",
+			"\\n\\$",
+			"\\nAPR",
+			"\\n\\$",
+			"\\nMAR",
+			"\\n\\$",
+			"\\nFEB",
+			"\\n\\$",
+			"\\nFEB",
+			"\\nJAN",
+			"\\n\\$",
+			"\\nJAN",
+			"\\n\\$",
+			"\\n$",
+			"header",
+			"KeyboardButtonType",
+			"),",
+			"@(",
+			",",
+			"",
+			"padding",
+			"collapseFooter",
+			"collapse",
+			"hideFooter",
+			"revealFooter",
+			"hideFooter",
+			"standard",
+			"desktop",
+			"mobile"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 307.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 170.0
+	},
+	"project": "VARSas.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"vsdisplayob",
+				"src/io/variante/display/VSDisplayObject.as"
+			],
+			[
+				"index",
+				"src/index.html"
+			],
+			[
+				"gruntf",
+				"gruntfile.js"
+			],
+			[
+				"main.js",
+				"src/js/modules/main.js"
+			],
+			[
+				"vars.js",
+				"src/js/external/vars.min.js"
+			],
+			[
+				"prologue.js",
+				"src/js/controllers/prologuecontroller.js"
+			],
+			[
+				"prologue",
+				"src/js/controllers/prologuecontroller.js"
+			],
+			[
+				"bootstra",
+				"src/css/bootstrapper.css"
+			],
+			[
+				"nor",
+				"src/css/core/normalize.css"
+			],
+			[
+				"prologue.css",
+				"src/css/modules/prologue.css"
+			],
+			[
+				"showcase.css",
+				"src/css/modules/showcase.css"
+			],
+			[
+				"normalize",
+				"src/css/core/normalize.css"
+			],
+			[
+				"showcase.da",
+				"src/data/showcase.data"
+			],
+			[
+				"showcasecontr",
+				"src/js/controllers/showcasecontroller.js"
+			],
+			[
+				"prologuecon",
+				"src/js/controllers/prologuecontroller.js"
+			],
+			[
+				"prolog",
+				"src/css/modules/prologue.css"
+			],
+			[
+				"vars.css",
+				"src/css/external/vars.css"
+			],
+			[
+				"footer.css",
+				"src/css/modules/footer.css"
+			],
+			[
+				"typo",
+				"src/css/core/typography.css"
+			],
+			[
+				"showcasecon",
+				"src/js/controllers/showcasecontroller.js"
+			],
+			[
+				"showcase",
+				"src/data/showcase.data"
+			],
+			[
+				"gruntfil",
+				"gruntfile.js"
+			],
+			[
+				"showcase.js",
+				"src/js/controllers/showcasecontroller.js"
+			],
+			[
+				"vars.",
+				"src/css/external/vars.css"
+			],
+			[
+				"inde",
+				"src/index.html"
+			],
+			[
+				"pro",
+				"src/css/modules/prologue.css"
+			],
+			[
+				"gruntfile.js",
+				"gruntfile.js"
+			],
+			[
+				"index.html",
+				"src/index.html"
+			],
+			[
+				"showcase.j",
+				"src/js/controllers/showcasecontroller.js"
+			],
+			[
+				"sublipro",
+				"VARIANTE.sublime-project"
+			],
+			[
+				"build.py",
+				"scripts/build.py"
+			],
+			[
+				"presentation.js",
+				"src/js/presentation.js"
+			],
+			[
+				"presen",
+				"bin/css/presentation.css"
+			],
+			[
+				"nav.js",
+				"bin/data/nav.json"
+			],
+			[
+				"ske",
+				"bin/css/skeleton.css"
+			],
+			[
+				"vars",
+				"bin/js/vars.js"
+			],
+			[
+				"skel",
+				"bin/css/skeleton.css"
+			],
+			[
+				"variante",
+				"bin/js/variante.js"
+			],
+			[
+				"skele",
+				"bin/scripts/css/skeleton.css"
+			],
+			[
+				"texts",
+				"WWW/scripts/css/texts.css"
+			],
+			[
+				"palett",
+				"WWW/scripts/css/palette.css"
+			],
+			[
+				"skeleton.css",
+				"WWW/scripts/css/skeleton.css"
+			],
+			[
+				"pal",
+				"scripts/css/palette.css"
+			],
+			[
+				"tex",
+				"scripts/css/texts.css"
+			],
+			[
+				"calculator",
+				"scripts/css/works/calculator.css"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"calculato",
+				"scripts/css/works/calculator.css"
+			],
+			[
+				"main.",
+				"scripts/js/main.js"
+			],
+			[
+				"text.cs",
+				"scripts/css/texts.css"
+			],
+			[
+				"footer",
+				"scripts/css/footer.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
