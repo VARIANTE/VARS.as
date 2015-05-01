@@ -1,0 +1,5 @@
+*.sublime-project
+*.sublime-workspace
+*.as3proj
+*.lxml
+obj
