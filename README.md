@@ -1,4 +1,4 @@
-# VARIANTE Stack (VARS.as)
+# VARIANTE Stack (VARS.as) ![](https://img.shields.io/maintenance/no/2014)
 
 Legacy experimental ActionScript 3.0 front-end framework. Intended for internal use only. Deprecated.
 
